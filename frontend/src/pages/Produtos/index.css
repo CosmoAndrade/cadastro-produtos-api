@@ -1,0 +1,13 @@
+.produtos{
+    height: 100vh;
+    background-color: white;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.produtos h1{
+    padding-top: 15px;
+    color: brown;
+}
+
